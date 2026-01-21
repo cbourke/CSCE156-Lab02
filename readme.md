@@ -15,11 +15,11 @@ included for the honors section.
 
 Prior to lab you should read/review the following resources.
 * `if-else tutorial`:
-http://download.oracle.com/javase/tutorial/java/nutsandbolts/if.html
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html
 * `for` loop tutorial:
-http://download.oracle.com/javase/tutorial/java/nutsandbolts/for.html
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html
 * `while` loop tutorial:
-http://download.oracle.com/javase/tutorial/java/nutsandbolts/while.html
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html
 
 
 ### Lab Objectives & Topics
